@@ -3,6 +3,8 @@
 ## Name
 Console-Finances
 
+https://ashcookdev.github.io/Console-Finances/
+
 ## Description
 This is a challenge where we have been asked to analyse financial data using javascript and to present our findings in the console in the browser.
 
